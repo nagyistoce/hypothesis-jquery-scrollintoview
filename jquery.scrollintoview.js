@@ -7,6 +7,10 @@
  * Copyright (c) 2011 Robert Koritnik
  * Licensed under the terms of the MIT license
  * http://www.opensource.org/licenses/mit-license.php
+ *
+ * Modifications from the original by Hypothes.is Project and contributors:
+ * Copyright (c) Hypothes.is Project and contributors
+ * Licensed under the terms of the MIT license
  */
 
 (function ($) {
